@@ -3,7 +3,9 @@
 
 Portfolio template for CSC and DSP 310
 
-_this is designed to be used by accepting an assignment on github classroom(the url is like: `https://github.com/rhodyprog4ds/portfolio-username`), if you are viewing the source repository(the name url is `https://github.com/rhodyprog4ds/portfolio`), you will have to fork first_  
+_this is designed to be used by accepting an assignment on github classroom(the url is like: `https://github.com/rhodyprog4ds/portfolio-username`), if you are viewing the source repository(the name url is `https://github.com/rhodyprog4ds/portfolio`), you will have to fork first_
+
+**If you are enrolled in the class, using the template from the source repository, not a github classroom link will not create an assignment that can be graded.  **
 
 ## Setup Publishing
 
@@ -19,7 +21,7 @@ _If you make your html public, for the semester, please keep it in the `rhodypro
 
 #### You can build locally by
 
-You can run Jupyter book offline, but you do not need to. There are some parts of this that are experimental and may be hard to get working on Windows or even Mac, but work on the Linux systems that GitHub hosts.
+You can run Jupyter book offline to view the compiled version of your portfolio, but you do not need to. There are some parts of this that are experimental and may be hard to get working on Windows or even Mac, but work on the Linux systems that GitHub hosts.
   - follow the [Jupyter Book Setup Instructions](https://jupyterbook.org/start/overview.html) in order to build offline
   - follow the [Jupyter Book PDF Instructions](https://jupyterbook.org/advanced/pdf.html) in order to build to pdf offline
 
