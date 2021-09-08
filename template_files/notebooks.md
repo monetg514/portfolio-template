@@ -1,10 +1,11 @@
 ---
 jupytext:
+  formats: md:myst,ipynb
   text_representation:
     extension: .md
     format_name: myst
-    format_version: 0.12
-    jupytext_version: 1.6.0
+    format_version: 0.13
+    jupytext_version: 1.10.3
 kernelspec:
   display_name: Python 3
   language: python
@@ -80,3 +81,11 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 
 There is a lot more that you can do with outputs (such as including interactive outputs)
 with your book. For more information about this, see [the Jupyter Book documentation](https://executablebooks.github.io/cli/start/overview.html)
+
+```{code-cell} ipython3
+
+```
+
+```{code-cell} ipython3
+
+```

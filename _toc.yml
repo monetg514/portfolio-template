@@ -1,12 +1,7 @@
-- file: intro
-
-- part: About
+format: jb-book
+root: intro
+options:
+  caption: About
   chapters:
-    - file: about/index
-#     - file: about/grading
-
-# - part: Submission 1
-#   chapters:
-#     - file: submission_1_intro
-#     - file: check1/
-#     - file: check1/
+  - file: about/index
+# - file: submission_1_intro
