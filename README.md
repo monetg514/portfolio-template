@@ -35,14 +35,32 @@ You can run Jupyter book offline to view the compiled version of your portfolio,
 
 ## Using your Jupyter Book Portfolio
 
-You can use it by adding files, either markdown files or jupyter notebooks to the folder and pushing or by uploading to the repository.
+You can use it by adding files, either markdown files or jupyter notebooks to the folder and pushing to the repository.
 
-When you add Jupyter notebooks and push your changes to GitHub, a GitHub Action will convert all of the notebooks to a markdown file and add that to your repository as well. This behaves better with version control and will help us when grading to give you detailed feedback.  
+Your repository is configured so that when you add Jupyter notebooks and push your changes to GitHub, there is a pre-commit hook that will convert your notebook files to markdown files.  This behaves better with version control and will help us when grading to give you detailed feedback.
 
-If you are working with git, not by uploading, you'll need to pull this converted file. If you want to convert manually, you may also do that by:
-- removing the jupytext GitHub Action
+When you first clone the repository, set up the precommit hooks.
+
+```
+cd portfolio-<username>
+pre-commit install
+```
+
+Then install `jupytext` with `pip install jupytext`
+
+If you add notebooks before running the above line, run the following first:
+```
+pre-commit run --all-files
+```
+
+>  This means that for us to see your output, your data files have to be in the portfolio repository and loaded with a relative path, or loaded from an internet source.
+
+
+
+ If precommit doesn't work for you, you may also conver manually:
+- removing .pre-commit-config.yaml
 - installing jupytext
-- converting your notebooks or authoring in md and using jupyterbook to run them.
+- converting your notebooks, keeping them [paired](https://jupytext.readthedocs.io/en/latest/paired-notebooks.html), or authoring in md and using jupyterbook to run them.
 
 
 Optionally, there's a lot of other features. For information on how to use special formatting, see the [Jupyter Book Documentation](https://jupyterbook.org/intro.html) and the example files in the `template_files/` folder of this repository.
