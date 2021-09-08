@@ -23,6 +23,8 @@ You can run Jupyter book offline, but you do not need to. There are some parts o
   - follow the [Jupyter Book Setup Instructions](https://jupyterbook.org/start/overview.html) in order to build offline
   - follow the [Jupyter Book PDF Instructions](https://jupyterbook.org/advanced/pdf.html) in order to build to pdf offline
 
+
+
 ## Make it yours
 
 - edit `_config.yml` to set your name as author
