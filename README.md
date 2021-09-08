@@ -25,6 +25,8 @@ You can run Jupyter book offline to view the compiled version of your portfolio,
   - follow the [Jupyter Book Setup Instructions](https://jupyterbook.org/start/overview.html) in order to build offline
   - follow the [Jupyter Book PDF Instructions](https://jupyterbook.org/advanced/pdf.html) in order to build to pdf offline
 
+
+
 ## Make it yours
 
 - edit `_config.yml` to set your name as author
