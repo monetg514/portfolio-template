@@ -22,6 +22,7 @@ jobs:
     - name: Convert notebooks to md for reading
       run: |
         jupytext --to myst *.ipynb
+        jupytext --to myst */*.ipynb
 
     # compile the pdf
     - name: Build a basic html to pdf
