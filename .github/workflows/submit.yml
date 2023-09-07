@@ -41,6 +41,6 @@ jobs:
       with:
         commit-message: 'convert to md'
         draft: false
-        branch: published
+        branch: main
         base: feedback
         title: Submission
