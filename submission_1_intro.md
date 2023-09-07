@@ -2,7 +2,9 @@
 
 ## KWL
 
-<!-- complete the first three columns in week 1; complete the learned column in your portfolio submission -->
+<!-- 
+complete the "Know" and "Want to Know" columns in Assignment 1 by putting what you
+know and want to know on the two bullets following each skill -->
 ```{list-table} Portfolio 1 KWL Chart
 :header-rows: 1
 :name: kwl1
@@ -37,6 +39,7 @@
   -
 ```
 
+<!-- for the above to work as a table, there must be three lines that start with ` -` after each line that starts with `* -` -->
 
 ## Overview
 

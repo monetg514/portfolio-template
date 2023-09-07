@@ -2,7 +2,10 @@
 
 ## KWL
 
-<!-- complete the first three columns when instructed; complete the learned column in your portfolio submission -->
+
+<!-- 
+complete this only if you submit portfolio four. Copy the relevant rows from your other portfolio submissions and update the learned column. -->
+
 ```{list-table} Portfolio 4 KWL Chart
 :header-rows: 1
 :name: kwl4
@@ -11,64 +14,9 @@
   - Know
   - Want to Know
   - Learned
-* - python
-  -
-  -
-  -
-* - access
-  -
-  -
-  -
-* - summarize
-  -
-  -
-  -
-* - visualize
-  -
-  -
-  -
-* - prepare
-  -
-  -
-  -
-* - construct
-  -
-  -
-  -
-* - classification
-  -
-  -
-  -
-* - regression
-  -
-  -
-  -
-* - clustering
-  -
-  -
-  -
-* - evaluation
-  -
-  -
-  -
-* - optimize
-  -
-  -
-  -
-* - compare
-  -
-  -
-  -
-* - unstructured
-  -
-  -
-  -
-* - workflow
-  -
-  -
-  -
-```
 
+```
+<!-- for the above to work as a table, there must be three lines that start with ` -` after each line that starts with `* -` -->
 
 ## Overview
 

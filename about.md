@@ -27,16 +27,9 @@ why you're taking this class-->
 ## Data Science, to me
 
 <!-- TODO:
-define data science in a few sentences using your own words. remember the
-goal here is to demonstrate that you understand what the data science process is-->
+define data science in your own words. -->
 
 
-## Plan for the course
-<!-- TODO:
-to help demonstrate that you understand how you'll be graded in the course,
-state what grade you plan to earn and how you will do that, including what you
-will do if not everything goes perfectly. For example:
-I plan to earn a C by participating actively in class and practicing after class
-while reading the notes.  If I struggle with a concept or miss classes, I will
-submit pseudocode and explanations to the corresponding assignments to earn
-those level 1 achievements.-->
+<!-- TODO:  -->
+
+

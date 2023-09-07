@@ -7,7 +7,8 @@ _this is designed to be used by accepting an assignment on github classroom(the 
 
 **If you are enrolled in the class, using the template from the source repository, not a github classroom link will not create an assignment that can be graded.  **
 
-## Setup Publishing
+##  Publishing
+
 
 #### On GitHub
 
@@ -19,7 +20,7 @@ _In December, if you wish you will be able to transfer ownership of your portfol
 
 
 #### You can build locally by
-
+*optional*
 You can run Jupyter book offline to view the compiled version of your portfolio, but you do not need to. There are some parts of this that are experimental and may be hard to get working on Windows or even Mac, but work on the Linux systems that GitHub hosts.
   - follow the [Jupyter Book Setup Instructions](https://jupyterbook.org/start/overview.html) in order to build offline
   - follow the [Jupyter Book PDF Instructions](https://jupyterbook.org/advanced/pdf.html) in order to build to pdf offline
@@ -28,8 +29,11 @@ You can run Jupyter book offline to view the compiled version of your portfolio,
 
 ## Make it yours
 
+**do this for assignment 1** 
+
 - edit `_config.yml` to set your name as author
-- edit `about/index.md` to be the introduction of your portfolio and a biography of yourself
+- fill in the template in  `about.md` to be about yourself
+- edit the KWL section of the first 3 `submission_x_intro.md` files
 - change the logo if you wish
 
 ## Using your Jupyter Book Portfolio
