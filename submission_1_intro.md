@@ -7,12 +7,12 @@ complete the "Know" and "Want to Know" columns in Assignment 1 by putting what y
 know and want to know on the two bullets following each skill -->
 ```{list-table} Portfolio 1 KWL Chart
 :header-rows: 1
-:name: kwl1
+:name: Monet G
 
 * - Skill
-  - Know
-  - Want to Know
-  - Learned
+  - How to navigate through jupyter book
+  - Want to Know how to move/ navigate through github better
+  - Learned- how to use jupyterLab
 * - python
   -
   -
@@ -22,9 +22,9 @@ know and want to know on the two bullets following each skill -->
   -
   -
 * - summarize
-  -
-  -
-  -
+  - recieved an overview on how to use python
+  - more knowledge on github
+  - discussed why datascience is important
 * - visualize
   -
   -
@@ -44,12 +44,13 @@ know and want to know on the two bullets following each skill -->
 ## Overview
 
 <!-- write sentences like this for each skill you want assessed (of those eligible for this check) -->
-I've demonstrated skill x in chapter y by z.
+I've demonstrated skills python in by having my memory refreshed on how python works. I always thought python was the easiest language to use because of how straightforward it is and less difficult. 
 
 
 ## Reflection
 
 <!-- write a few sentences about any challenges you had -->
+I did not run into too many challenges other than learning how to create files and save them in Jupyter Lab. 
 
 
 
